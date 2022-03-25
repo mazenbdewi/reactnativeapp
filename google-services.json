@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "954196447210",
+    "project_id": "exvar",
+    "storage_bucket": "exvar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954196447210:android:756c38f111b69229f36c93",
+        "android_client_info": {
+          "package_name": "com.exvar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954196447210-gsaku84mu1uit01ubdgotgmhat7uol92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-gwAl8lkTab8MmVJj0wF1PjBFGv1ZD78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "954196447210-gsaku84mu1uit01ubdgotgmhat7uol92.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
